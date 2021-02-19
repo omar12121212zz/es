@@ -1,0 +1,36 @@
+
+
+{
+  "TOKEN": "NjcwMjMxMjA1ODI4MTAwMTE2.XirXcw.OquOa0d102cXCbTT3MR_PxR3ydI",
+  "YOUTUBE_API_KEY": "AIzaSyCBwuIf_kpJnnZH3vOiI6hGgJlSI0Jinbg",
+
+
+  "EMOJI_ARROW": "",
+  "EMOJI_DONE": "",
+  "EMOJI_ERROR": "",
+  "EMOJI_STARTED_PLAYING": "",
+  "EMOJI_LINE":"",
+
+
+  "BOT_ID": "670231205828100116",
+  "BOT_OWNER_ID": "507813744840278052",
+  "SERVER_INVITE": "Developed By 3MR",
+
+  "PREFIX": "3",
+  "BOT_PREFIX": "3",
+
+
+  "BOT_STATUS2":"3MR",
+  "BOT_STATUS3": "3MR",
+  
+  "BOT_PRESENCE" : "PLAYING",
+
+  "SOUNDCLOUD_CLIENT_ID": "2t9loNQH90kzJcsFCODdigxfp325aq4z",
+  "MAX_PLAYLIST_SIZE": 900,
+  "PRUNING": true,
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
+
+
+     
